@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ##     Aditya Engineering College
 * ***Wanna Be A Full Stack Developer***<br>
-* ***Heart Hacker ( ethical hacking ) ***
+* ***Heart Hacker ( ethical hacking )***
 
