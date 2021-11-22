@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Aditya Engineering College
+#### Wanna be Developer
+#### Heart Hacker(ethical hacker)
 
