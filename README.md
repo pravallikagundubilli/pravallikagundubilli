@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Aditya Engineering College
-##### Wanna be a Full Stack Developer
-##### Heart Hacker(ethical hacker)
+* ##### Wanna be a Full Stack Developer
+* ##### Heart Hacker(ethical hacker)
 
