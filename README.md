@@ -31,14 +31,14 @@ Here are some ideas to get you started:-->
 
 
 
-# Best Triplet That I Could Never Stop Loving ...............
+# Best Names That I Could Never Stop Loving ...............
 
 
 |S.No| Name|Roll No | Branch |Mobile No|
 |----|-----|--------|--------|---------|
 |1|Pravallika Gundubilli|20A91A0521|CSE|9949231562,8096661562|
 |2|Ram Prasad Muppana|20A91A0541|CSE|9014053710| 
-|3|Ramalakshmi Ravula|20A91A0554|CSE|7893860179|
+
 
 
 
