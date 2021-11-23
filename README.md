@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##     Aditya Engineering College
-* ***Wanna Be A Full Stack Developer***<br>
-* ***Heart Hacker ( ethical hacking )***
+* ***lOYAL TO MY ONES***<br>
+* ***Deeply In Love With Animals***
+
+
+![Professional Icon](https://static.thenounproject.com/png/3215732-200.png)
+
+
+## It Is A Professional Icon
+*Wanna Be A Full Stack Developer*<br>
+**Heart Hacker ( Ethical Hacking )**<br>
+***Being FAKE In This Real World And Real In The Fake World Coz FAKE Became New Trend...........***
 
