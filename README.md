@@ -1,10 +1,10 @@
-# Hi there 👋 I am Pravallika Gundubilli
+# ***Hi there 👋 I am Pravallika Gundubilli***
 
 <!--
 **pravallikagundubilli/pravallikagundubilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-##     Aditya Engineering College
+##     ***Aditya Engineering College***
 
 - 🔭 I’m currently working on AI,ML,DATABASE MANAGEMENT............COURSES
 - 🌱 I’m currently learning DATA STRUCTURES AND ALGORITHMS
@@ -24,14 +24,14 @@ Here are some ideas to get you started:-->
 ![Professional Icon](https://static.thenounproject.com/png/3215732-200.png)
 
 
-## It Is A Professional Icon
+## ***It Is A Professional Icon***
 * *Wanna Be A Full Stack Developer*<br>
 * **Heart Hacker ( Ethical Hacking )**<br>
 * ***Being FAKE In This Real World And Real In The Fake World Coz FAKE Became New Trend These Days...........***
 
 
 
-# Best Names That I Could Never Stop Loving ...............
+# ***Best Names That I Could Never Stop Loving ...............
 
 
 |***S.No***| ***Name***|***Roll No*** | ***Branch*** |***Mobile No***|
