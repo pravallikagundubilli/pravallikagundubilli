@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for help in finding myself..........
 - 💬 Ask me about My Coding Skills..........
 - 📫 Reach me at email:gundubillipravallika@gmail.com
-- 😄 Pronouns: Me,Dad,Sai(Ram)
+- 😄 Lovable Ones In My Life: Me,Dad,Sai(Ram)
 - ⚡ Fun fact: Makes People cry who loves me most............HaHa
 
 
