@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 ## It Is A Professional Icon
-*Wanna Be A Full Stack Developer*<br>
-**Heart Hacker ( Ethical Hacking )**<br>
-***Being FAKE In This Real World And Real In The Fake World Coz FAKE Became New Trend...........***
+* *Wanna Be A Full Stack Developer*<br>
+* **Heart Hacker ( Ethical Hacking )**<br>
+* ***Being FAKE In This Real World And Real In The Fake World Coz FAKE Became New Trend...........***
 
