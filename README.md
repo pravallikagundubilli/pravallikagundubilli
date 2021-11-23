@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##     Aditya Engineering College
-* ***lOYAL TO MY ONES***<br>
+* ***LOYAL TO MY ONES***<br>
 * ***Deeply In Love With Animals***
 
 
