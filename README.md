@@ -25,16 +25,16 @@ Here are some ideas to get you started:
 ## It Is A Professional Icon
 * *Wanna Be A Full Stack Developer*<br>
 * **Heart Hacker ( Ethical Hacking )**<br>
-* ***Being FAKE In This Real World And Real In The Fake World Coz FAKE Became New Trend...........***
+* ***Being FAKE In This Real World And Real In The Fake World Coz FAKE Became New Trend These Days...........***
 
 
 
 
 |S.No| Name|Roll No | Branch |Mobile No|
 |----|-----|--------|--------|---------|
-|1|Pravallika|20A91A0521|CSE|9949231562,8096661562|
-|2|Ram Prasad|20A91A0541|CSE|9014053710| 
-|3|Ramalakshmi|20A91A0554|CSE|7893860179|
+|1|Pravallika Gundubilli|20A91A0521|CSE|9949231562,8096661562|
+|2|Ram Prasad Muppana|20A91A0541|CSE|9014053710| 
+|3|Ramalakshmi Ravula|20A91A0554|CSE|7893860179|
 
 
 # List
