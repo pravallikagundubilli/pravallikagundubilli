@@ -4,6 +4,7 @@
 **pravallikagundubilli/pravallikagundubilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
+##     Aditya Engineering College
 
 - 🔭 I’m currently working on AI,ML,DATABASE MANAGEMENT............COURSES
 - 🌱 I’m currently learning DATA STRUCTURES AND ALGORITHMS
@@ -15,7 +16,7 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: Makes People cry who loves me most............HaHa
 
 
-##     Aditya Engineering College
+
 * ***LOYAL TO MY ONES***<br>
 * ***Deeply In Love With Animals***
 
