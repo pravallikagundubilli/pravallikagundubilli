@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about My Coding Skills..........
 - 📫 Reach me at email:gundubillipravallika@gmail.com
 - 😄 Pronouns: Me,Dad,Sai(Ram)
-- ⚡ Fun fact: Make People cry who loves me most............
+- ⚡ Fun fact: Makes People cry who loves me most............HaHa
 
 
 ##     Aditya Engineering College
