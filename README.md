@@ -41,50 +41,8 @@ Here are some ideas to get you started:-->
 |3|Ramalakshmi Ravula|20A91A0554|CSE|7893860179|
 
 
-# List
 
-
-
-# Ordered List
-1. ***EEE***
-2. ***CSE***
-3. ***ECE***
-4. ***IT***
-5. ***MECHANICAL***
-6. ***CIVIL***
-7. ***AGRI***
-8. ***PT***
-9. ***MINING***
-
-
-
-
-# Unordered List
-- ***EEE***
-- ***CSE***
-- ***ECE***
-- ***IT***
-- ***MECHANCAL***
-- ***CIVIL***
-- ***AGRI***
-- ***PT***
-- ***MINING***
-<!--  WE CAN USE * ALSO  -->
-
-
-
-
-
-# Nested List
-1. ***CSE***
-   * ***These Make The World With Softwares***
-   * ***We Guyss Play With Codes***
-2. ***ECE***
-   * ***They Make Cse To Work By Producing Electricity***
-
-
-
-# Python Code
+# Love With This Python Code
 ```python
 from turtle import *
 color('red')
