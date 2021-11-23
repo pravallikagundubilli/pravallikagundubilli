@@ -27,3 +27,50 @@ Here are some ideas to get you started:
 * **Heart Hacker ( Ethical Hacking )**<br>
 * ***Being FAKE In This Real World And Real In The Fake World Coz FAKE Became New Trend...........***
 
+
+
+
+|S.No| Name|Roll No | Branch |Mobile No|
+|----|-----|--------|--------|---------|
+|1|Pravallika|20A91A0521|CSE|9949231562,8096661562|
+|2|Ram Prasad|20A91A0541|CSE|9014053710| 
+|3|Ramalakshmi|20A91A0554|CSE|7893860179|
+
+
+# List
+# Ordered List
+1. ***EEE***
+2. ***CSE***
+3. ***ECE***
+4. ***IT***
+5. ***MECHANICAL***
+6. ***CIVIL***
+7. ***AGRI***
+8. ***PT***
+9. ***MINING***
+
+
+
+
+# Unordered List
+- ***EEE***
+- ***CSE***
+- ***ECE***
+- ***IT***
+- ***MECHANCAL***
+- ***CIVIL***
+- ***AGRI***
+- ***PT***
+- ***MINING***
+<!--  WE CAN USE * ALSO  -->
+
+# Nested List
+1. ***CSE***
+   * ***These Make The World With Softwares***
+   * ***We Guyss Play With Codes***
+2. ***ECE***
+   * ***They Make Cse To Work By Producing Electricity***
+
+
+
+
