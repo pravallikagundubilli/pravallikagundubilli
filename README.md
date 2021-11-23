@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for help in finding myself..........
 - 💬 Ask me about Anything That U Wanna Know..........
 - 📫 Reach me at email:gundubillipravallika@gmail.com
-- 😄 Lovable Ones In My Life: Me,Dad,Sai(Ram)
+- 😄 Lovable Ones In My Life: Me , Dad , Sai (Ram)
 - ⚡ Fun fact: Makes People cry who loves me most............HaHa
 
 
