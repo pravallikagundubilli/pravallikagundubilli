@@ -35,10 +35,6 @@ Here are some ideas to get you started:-->
 # ***Best Names That I Could Never Stop Loving ...............***
 
 
-|***S.No***| ***Name***|***Roll No*** | ***Branch*** |***Mobile No***|
-|----|-----|--------|--------|---------|
-|***1***|***Pravallika Gundubilli***|***20A91A0521***|***CSE***|***9949231562,8096661562***|
-|***2***|***Ram Prasad Muppana***|***20A91A0541***|***CSE***|***9014053710***| 
 
 
 
