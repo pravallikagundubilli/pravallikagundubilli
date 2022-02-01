@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about Anything That U Wanna Know..........
 - 📫 Reach me at EMail:gundubillipravallika@gmail.com
 -  ALSO AT INSTAGRAM:kingless_queen1562
-- 😄 Lovable Ones In My Life: Me , Dad , Sai (Ram)
+- 😄 Lovable Ones In My Life: Me 
 - ⚡ Fun fact: Makes People cry who loves me most............HaHa
 
 
