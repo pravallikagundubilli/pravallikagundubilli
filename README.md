@@ -21,7 +21,6 @@ Here are some ideas to get you started:-->
 - 📫 Reach me at EMail:gundubillipravallika@gmail.com
 - 😄 Lovable Ones In My Life: Me 
 - ⚡ Fun fact: Makes People cry who loves me most............HaHa
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pravallikagundubilli&label=Profile%20views&color=0e75b6&style=flat" alt="pravallikagundubilli" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pravallikagundubilli" alt="pravallikagundubilli" /></a> </p>
 
